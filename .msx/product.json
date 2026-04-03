@@ -1,0 +1,48 @@
+{
+  "id": "a1b2c3d4-0002-4000-8000-000000000002",
+  "name": "GLP-1 users need habit stacking support",
+  "slug": "glp-1-users-need-habit-stackin",
+  "category": "saas",
+  "score": 91,
+  "description": "Ozempic/Wegovy users struggle to build sustainable habits during treatment",
+  "pain_points": [
+    "Lost weight but do not know how to eat normally",
+    "No energy for gym, need low-effort movement",
+    "Food noise is gone but so is all food joy",
+    "Scared of regaining when I stop medication"
+  ],
+  "market_size": "$8.1B",
+  "tech_stack": [
+    "node",
+    "express",
+    "react"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "icon": "📱",
+      "value": "5.1M",
+      "change": 128,
+      "metric": "Views",
+      "source": "tiktok"
+    },
+    {
+      "icon": "📈",
+      "value": "99/100",
+      "change": 77,
+      "metric": "Search Interest",
+      "source": "google_trends"
+    },
+    {
+      "icon": "💬",
+      "value": "25410+",
+      "change": 52,
+      "metric": "Mentions",
+      "source": "reddit"
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-glp-1-users-need-habit-stackin/",
+  "repo_url": "https://github.com/mothershipx/msx-glp-1-users-need-habit-stackin",
+  "created_at": "2026-04-03T07:05:48.873Z",
+  "pipeline_version": "1.0.0"
+}
