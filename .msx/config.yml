@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: GLP-1 users need habit stacking support
+slug: glp-1-users-need-habit-stackin
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: glp-1-users-need-habit-stackin.msx.dev
